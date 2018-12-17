@@ -1,0 +1,9 @@
+name:
+  valassis
+dependencies:
+  - python=3.6
+  - pip
+  - pip:
+    - pandas
+    - notebook
+    -  seaborn
